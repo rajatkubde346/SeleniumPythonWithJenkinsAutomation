@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 def _get_driver():
     """Common driver setup: headless Chrome (Jenkins friendly)."""
     options = Options()
-    options.add_argument("--headed=new")
+    options.add_argument("--headless=new")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     driver = webdriver.Chrome(options=options)
