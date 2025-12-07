@@ -103,7 +103,7 @@ def test_parabank_register():
         driver.find_element(By.NAME, "username").send_keys("rajat1234")
         driver.find_element(By.NAME, "password").send_keys("1234")
         driver.find_element(By.TAG_NAME, "input").click()
-        wait = WebDriverWait(driver, 10)
+
 
 
 

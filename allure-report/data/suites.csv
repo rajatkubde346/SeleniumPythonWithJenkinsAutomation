@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","33943","test_demoqa_textbox_and_checkbox","tests","2025-12-02","passed","2025-12-02","","test_user","",""
-"","12632","test_parabank_register","tests","2025-12-02","passed","2025-12-02","","test_user","",""
+"","27037","test_demoqa_textbox_and_checkbox","tests","2025-12-07","passed","2025-12-07","","test_user","",""
+"","12738","test_parabank_register","tests","2025-12-07","passed","2025-12-07","","test_user","",""
